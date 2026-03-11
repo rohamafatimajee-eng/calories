@@ -8,8 +8,6 @@
  * - Macronutrients (fats, protein, carbs) fetched from CalorieNinjas.
  * - Compare daily calories to estimated maintenance (weight*24).
  * - **Fixed "Get Nutrition" button** – shows each item's macros in a list.
- * 
- * CONFIGURATION: update lines below.
  */
 
 // ==================== CONFIGURATION ====================
