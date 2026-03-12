@@ -7,7 +7,7 @@
  * - Daily total calories shown in UI.
  * - Macronutrients (fats, protein, carbs) fetched from CalorieNinjas.
  * - Compare daily calories to estimated maintenance (weight*24).
- * - **Fixed "Get Nutrition" button** – shows each macros in list.
+ * - **Fixed "Get Nutrition" button** – shows each macros.
  */
 
 // ==================== CONFIGURATION ====================
